@@ -1,0 +1,18 @@
+.buttons{
+vertical-align: bottom;
+font-size: 13px;
+font-weight: bold;
+line-height: 13px;			
+padding:15px;
+border:1px solid #CCC;
+background: #FDFFBC;
+}
+.buttons a img{
+border: none;
+opacity:1.0; -moz-opacity:0.3; filter:alpha(opacity=40);
+padding: 1px;
+}
+.buttons a:hover img
+{
+border: none;
+opacity:0.5; -moz-opacity:1.0; filter:alpha(opacity=100);
